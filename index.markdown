@@ -1,3 +1,3 @@
 ---
-layout: image_upscaler
+layout: image_upscale
 ---
