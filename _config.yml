@@ -1,9 +1,9 @@
 title: Image Upscaler Tool | whdzera
 email: whdzera@gmail.com
-baseurl: ""
+baseurl: "/image-upscaler"
 url: "" 
 twitter_username: whdzera
 github_username:  rokhimin/jekyll-nik-parse
 
 permalink: /:title.rb
-files: ""
+files: "/image-upscaler"
