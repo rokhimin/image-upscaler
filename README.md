@@ -3,7 +3,6 @@
 
 #### About
 image upscaler tool | Jekyll
-resize image 2x,3x,4x 
 
 #### Library
 - Jekyll
